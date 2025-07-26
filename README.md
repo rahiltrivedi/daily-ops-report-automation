@@ -16,3 +16,11 @@ This project automates the daily disbursement reporting workflow for operations 
 - Excel
 
 ## 📁 Project Structure
+daily-ops-report-automation/
+├── data/
+│ └── disbursements_2025-07-26.xlsx # Raw input Excel file
+├── output/
+│ └── daily_report_2025-07-26.xlsx # Final formatted report
+├── screenshots/
+│ └── email_preview.png # Screenshot of received email
+├── daily_ops_report.py # Main Python automation script

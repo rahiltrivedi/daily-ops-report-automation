@@ -12,7 +12,7 @@ TODAY = datetime.today().strftime("%Y-%m-%d")
 REPORT_FILENAME = f"daily_report_{TODAY}.xlsx"
 
 EMAIL_SENDER = "popeye138@yahoo.com"
-EMAIL_PASSWORD = "jdwcqfmbvcjamsol"  # ⚠️ In real projects, store in environment variables or config files
+EMAIL_PASSWORD = "addyourapppasword"  # ⚠️ In real projects, store in environment variables or config files
 EMAIL_RECIPIENT = "popeye2105@yahoo.com"
 SMTP_SERVER = "smtp.mail.yahoo.com"
 SMTP_PORT = 587
